@@ -1,0 +1,5 @@
+https://packagecloud.io/golang-migrate/migrate/install#bash-deb
+
+curl -s https://packagecloud.io/install/repositories/golang-migrate/migrate/script.deb.sh | sudo bash
+
+sudo apt install migrate
